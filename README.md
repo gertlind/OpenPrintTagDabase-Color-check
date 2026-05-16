@@ -1,3 +1,32 @@
+
+
+python3 optd_color.py 41a840ff --material PETG
+Hits for color #41a840ff, material PETG: 9
+
+Manufactorer:
+- ATARAXIA ART
+- CC3D
+- Creality
+- EconoFil
+- Numakers
+- SMART MATERIALS 3D
+- add:north
+- extrudr
+
+Details:
+- ATARAXIA ART | PETG | PETG Green | #41a840ff
+- CC3D | PETG | Translucen PETG Grass Green | #41a840ff
+- Creality | PETG | PETG Green | #41a840ff
+- EconoFil | PETG | Standard PETG Dark Green | #41a840ff
+- Numakers | PETG | PETG-HS Grass Green | #41a840ff
+- SMART MATERIALS 3D | PETG | PETG Chlorophyll | #41a840ff
+- add:north | PETG | PETG Green | #41a840ff
+- extrudr | PETG | PETG signal green | RAL 6037 | #41a840ff
+- extrudr | PETG | PETG transparent green | RAL 6018 | #41a840ff
+
+
+
+
 | Brand  | Name | Picture | 
 | -------|:------:| ------------- |
 | ATARAXIA ART|[PETG Green](https://ataraxiaart.com/product/ataraxia-art-petg-filament-1-75mm-3d-printer-filament-1-kg-2-2-lb-spool-dimensional-accuracy-0-02mm-with-storage-resealable-vacuum-bag-v2-fit-most-fdm-printer-pantone-matched-petg-green/)|<img src="images/ataraxiaart_41a840ff.png" width="120">|
