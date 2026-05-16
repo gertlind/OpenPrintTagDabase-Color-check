@@ -5,7 +5,7 @@
 | Creality  |PETG Green|<img src="images/Creality PETG Green.jpg" width="120">  |
 | EconoFil  |Standard PETG Dark Green|<img src="images/Econofill._PETG_Greenj.jpg" width="120"> |
 | Numakers  | PETG-HS Grass Green|<img src="images/Numakers_PETG-HS_Grass_Green_Spool_Printzy.png" width="120">|
-| SMART MATERIALS 3D  |PETG Chlorophyll |Content Cell  |
-| add:north  |PETG Green |Content Cell  |
+| SMART MATERIALS 3D  |PETG Chlorophyll |<img src="images/smart_materials_petg.chlorophyll.jpg" width="120">|
+| add:north  |PETG Green |<img src="images/addnorth_PETG_Green_1000g_1500x1500_WeYfEu.png" width="120">|
 | extrudr  | PETG signal green|Content Cell  |
 | extrudr  | PETG transparent green|Content Cell  |
