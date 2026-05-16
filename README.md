@@ -7,5 +7,5 @@
 | Numakers  | PETG-HS Grass Green|<img src="images/Numakers_PETG-HS_Grass_Green_Spool_Printzy.png" width="120">|
 | SMART MATERIALS 3D  |PETG Chlorophyll |<img src="images/smart_materials_petg.chlorophyll.jpg" width="120">|
 | add:north  |PETG Green |<img src="images/addnorth_PETG_Green_1000g_1500x1500_WeYfEu.png" width="120">|
-| extrudr  | PETG signal green|Content Cell  |
-| extrudr  | PETG transparent green|Content Cell  |
+| extrudr  | PETG signal green|<img src="images/Extruder_PETG_signalgreen.avif" width="120">|
+| extrudr  | PETG transparent green|<img src="images/Extruder_PETG_transgreen.avif" width="120">|
