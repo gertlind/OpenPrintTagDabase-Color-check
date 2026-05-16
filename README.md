@@ -7,5 +7,5 @@
 | Numakers  | [PETG-HS Grass Green](https://numakers.com/products/petg-hs-filament?variant=48182325182772)|<img src="images/Numakers_PETG-HS_Grass_Green_Spool_Printzy.png" width="120">|
 | SMART MATERIALS 3D  |[PETG Chlorophyll](https://www.smartmaterials3d.com/inicio?q=MATERIAL-PETG/Color-Chlorophyll)|<img src="images/smart_materials_petg.chlorophyll.jpg" width="120">|
 | add:north  |[PETG Green](https://addnorth.se/product/PETG/PETG%20-%201.75mm%20-%201000g%20-%20Green)|<img src="images/addnorth_PETG_Green_1000g_1500x1500_WeYfEu.png" width="120">|
-| extrudr  | PETG signal green|<img src="images/Extruder_PETG_signalgreen.avif" width="120">|
-| extrudr  | PETG transparent green|<img src="images/Extruder_PETG_transgreen.avif" width="120">|
+| extrudr  | [PETG signal green](https://www.extrudr.com/en/se/products/petg/?variant=UHJvZHVjdFZhcmlhbnQ6MjA1OA%3D%3D)|<img src="images/Extruder_PETG_signalgreen.avif" width="120">|
+| extrudr  | [PETG transparent green](https://www.extrudr.com/en/se/products/petg/?variant=UHJvZHVjdFZhcmlhbnQ6MTk4NA%3D%3D)|<img src="images/Extruder_PETG_transgreen.avif" width="120">|
