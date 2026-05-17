@@ -10,7 +10,7 @@ python3 [optd_color.py](https://github.com/gertlind/optd-color/blob/main/README.
 Hits for color #41a840ff, material PETG: 9
 
 Brands:
-- ATARAXIA ART
+- ATARAXIA ART.
 - CC3D
 - Creality
 - EconoFil
