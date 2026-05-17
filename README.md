@@ -5,7 +5,8 @@ Read up on how RGB works:
 [RGB Explained](https://en.wikipedia.org/wiki/RGB_color_model)
 
 ---
-python3 optd_color.py 41a840ff --material PETG
+Example: looking for the green color 41a840ff
+python3 optd_color.py 41a840ff --material PETG<BR>
 Hits for color #41a840ff, material PETG: 9
 
 Brands:
@@ -42,7 +43,7 @@ Details:
 
 | Brand  | Name | Picture | 
 | :-------:|:------:| ------------- |
-| Color We are looking for  |#41a840ff|<img src="images/reference_color.png" width="120">) |
+| Color We are looking for  |#41a840ff|<img src="images/reference_color.png" width="120"> |
 | ATARAXIA ART|[PETG Green](https://ataraxiaart.com/product/ataraxia-art-petg-filament-1-75mm-3d-printer-filament-1-kg-2-2-lb-spool-dimensional-accuracy-0-02mm-with-storage-resealable-vacuum-bag-v2-fit-most-fdm-printer-pantone-matched-petg-green/)|<img src="images/ataraxia-art-petg-green.jpg" width="120">|
 | CC3D  |[Translucen PETG Grass Green](https://cc3dglobal.com/product/translucent-green-petg-filament/)|<img src="images/cc3d-translucen-petg-grass-green.jpg" width="120">  |
 | Creality  |[PETG Green](https://store.creality.com/eu/products/hyper-petg-filament-1-75mm-1kg)|<img src="images/creality-petg-green.jpg" width="120">  |
