@@ -1,6 +1,6 @@
-#Background
+# Background
 ```text
-After starting to use <Filament DB> 
+After starting to use [Filament DB](https://github.com/hyiger/filament-db) 
 ````
 
 python3 optd_color.py 41a840ff --material PETG
