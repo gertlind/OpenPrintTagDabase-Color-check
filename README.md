@@ -6,7 +6,7 @@ Read up on how RGB works:
 
 ---
 Example: looking for the green color 41a840ff<BR>
-python3 optd_color.py 41a840ff --material PETG<BR>
+python3 [optd_color.py](https://github.com/gertlind/optd-color/blob/main/README.md) 41a840ff --material PETG<BR>
 Hits for color #41a840ff, material PETG: 9
 
 Brands:
