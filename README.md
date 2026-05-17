@@ -42,7 +42,7 @@ Details:
 
 | Brand  | Name | Picture | 
 | -------|:------:| ------------- |
-| color we are looking for| [41a840]|(<img src="images/<img src="images/ataraxia-art-petg-green.jpg" width="120">" width="120">) |
+| color we are looking for| [41a840](<img src="images/<img src="images/ataraxia-art-petg-green.jpg" width="120">" width="120">) |
 | ATARAXIA ART|[PETG Green](https://ataraxiaart.com/product/ataraxia-art-petg-filament-1-75mm-3d-printer-filament-1-kg-2-2-lb-spool-dimensional-accuracy-0-02mm-with-storage-resealable-vacuum-bag-v2-fit-most-fdm-printer-pantone-matched-petg-green/)|<img src="images/ataraxia-art-petg-green.jpg" width="120">|
 | CC3D  |[Translucen PETG Grass Green](https://cc3dglobal.com/product/translucent-green-petg-filament/)|<img src="images/cc3d-translucen-petg-grass-green.jpg" width="120">  |
 | Creality  |[PETG Green](https://store.creality.com/eu/products/hyper-petg-filament-1-75mm-1kg)|<img src="images/creality-petg-green.jpg" width="120">  |
