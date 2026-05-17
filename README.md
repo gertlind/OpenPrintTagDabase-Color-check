@@ -43,6 +43,6 @@ Details:
 | EconoFil  |[Standard PETG Dark Green](https://filaments.ca/products/econofil-standard-petg-green?_pos=2&_sid=682e45fd2&_ss=r)|<img src="images/econofill-Dark-Green-PETG.jpg" width="120"> |
 | Numakers  | [PETG-HS Grass Green](https://numakers.com/products/petg-hs-filament?variant=48182325182772)|<img src="images/numakers-petg-hs-grass-green-0-228b2dac.jpg" width="120">|
 | SMART MATERIALS 3D  |[PETG Chlorophyll](https://www.smartmaterials3d.com/inicio?q=MATERIAL-PETG/Color-Chlorophyll)|<img src="images/smart-materials-3d-petg-chlorophyll.png" width="120">|
-| add:north  |[PETG Green](https://addnorth.se/product/PETG/PETG%20-%201.75mm%20-%201000g%20-%20Green)|<img src="images/addnorth-petg-green.png" width="120">|
+| add:north  |[PETG Green](https://addnorth.se/product/PETG/PETG%20-%201.75mm%20-%201000g%20-%20Green)|<img src="images/addnorth-petg-green_new.png" width="120">|
 | extrudr  | [PETG signal green](https://www.extrudr.com/en/se/products/petg/?variant=UHJvZHVjdFZhcmlhbnQ6MjA1OA%3D%3D)|<img src="images/extrudr-petg-signal-green-ral-6037.png" width="120">|
 | extrudr  | [PETG transparent green](https://www.extrudr.com/en/se/products/petg/?variant=UHJvZHVjdFZhcmlhbnQ6MTk4NA%3D%3D)|<img src="images/extrudr-petg-transparent-green-ral-6018.png" width="120">|
